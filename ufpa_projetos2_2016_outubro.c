@@ -83,6 +83,7 @@ int main() {
 	puts("201606840011 - Arissa Oliveira Niwa - http://lattes.cnpq.br/7425701933858594 \n");
 	puts("Jamais se desespere em meio as sombrias aflições de sua vida, pois das nuvens mais negras cai água límpida e fecunda.\n");
 
-
+	puts("201606840089 - Ilvini Pitter Nunes Batista - http://lattes.cnpq.br/8853651830374597\n");
+	puts("Meu mantra: Oportunidades não surgem. É você que as cria.\n");
 }
 
