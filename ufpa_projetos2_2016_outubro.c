@@ -14,7 +14,7 @@ int main() {
 	puts("201606840010 - Elizabeth F. Oliveira - http://lattes.cnpq.br/3727145269556026 \n");
 	puts("Meu mantra: Dias melhores virão. \n");
 
-  	puts("201606840079 - Lucas Borges de Oliveira - http://lattes.cnpq.br/2390062126612912\n");
+	  	puts("201606840079 - Lucas Borges de Oliveira - http://lattes.cnpq.br/2390062126612912\n");
 	puts("Meu mantra: Faça sempre o que tiver medo de fazer\n");
 
 	puts("201606840055 - Camila Novaes Silva - http://lattes.cnpq.br/8140407123291569\n");
@@ -24,7 +24,7 @@ int main() {
 	puts("Meu mantra:  E ao vencedor, as batatas!\n");
 
  	puts("201606840013 - Pablo Wesley de Aguiar e Silva - http://lattes.cnpq.br/8367445627412580\n");
-	puts("Meu mantra:  Aller Anfang ist schwer.\n");
+		puts("Meu mantra:  Aller Anfang ist schwer.\n");
 	     
 	puts("201606840028 - Mateus Sales Bentes - http://lattes.cnpq.br/2209629136851671");
 	puts("Meu mantra: Aluno de graduação do curso de Engenharia da Computação do Instituto de Tecnologia (ITEC) da Universidade Federal do Pará (UFPA).\n");
@@ -83,6 +83,7 @@ int main() {
 	puts("201606840011 - Arissa Oliveira Niwa - http://lattes.cnpq.br/7425701933858594 \n");
 	puts("Jamais se desespere em meio as sombrias aflições de sua vida, pois das nuvens mais negras cai água límpida e fecunda.\n");
 
-
+	puts("201606840089 - Ilvini Pitter Nunes Batista - http://lattes.cnpq.br/8853651830374597\n");
+	puts("Meu mantra: Oportunidades não surgem. É você que as cria.\n");
 }
 
